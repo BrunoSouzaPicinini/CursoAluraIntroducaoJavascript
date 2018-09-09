@@ -136,3 +136,15 @@ button[disabled=disabled], button:disabled {
 .paciente-invalido {
 	background-color: crimson;
 }
+
+.imgTableImc {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	max-width: 778px;
+	max-height: 400px;
+	width: auto;
+	height: auto;
+}
