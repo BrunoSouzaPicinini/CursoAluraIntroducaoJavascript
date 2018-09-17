@@ -134,7 +134,7 @@ button[disabled=disabled], button:disabled {
 }
 
 .paciente-invalido {
-	background-color: crimson;
+	background-color: lightcoral;
 }
 
 .imgTableImc {
@@ -147,4 +147,8 @@ button[disabled=disabled], button:disabled {
 	max-height: 400px;
 	width: auto;
 	height: auto;
+}
+
+#mensagens-erro {
+	color: #c60001;
 }
