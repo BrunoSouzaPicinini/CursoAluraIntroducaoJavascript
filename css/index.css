@@ -143,8 +143,8 @@ button[disabled=disabled], button:disabled {
 	margin-right: auto;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	max-width: 778px;
-	max-height: 400px;
+	max-width: 600px;
+	max-height: 300px;
 	width: auto;
 	height: auto;
 }
@@ -156,4 +156,14 @@ button[disabled=disabled], button:disabled {
 .fadeOut {
 	opacity: 0;
 	transition: 0.5s;
+}
+
+#filtrar-tabela {
+	width: 200px;
+	height: 35px;
+	margin-bottom: 10px;
+}
+
+.invisivel {
+	display: none;
 }
