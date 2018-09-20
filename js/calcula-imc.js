@@ -1,7 +1,7 @@
 console.log("vim de fora");
 
 var titulo = document.querySelector(".cssTitulo");
-titulo.textContent = "Teste do boi";
+titulo.textContent = "Teste de JS";
 
 var pacientes = document.querySelectorAll(".paciente");
 
